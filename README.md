@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**alanjian85/alanjian85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alan Jian, also known as CyKid128. I'm a student programmer from Taiwan who is trying to learn computer graphics, networking and modern C++ now, interested in game engine and game development currently, you may find me on several messaging platforms.
 
-Here are some ideas to get you started:
+📫 Email: alanjian85@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="discord.ico" width="15px"> Discord: CyKid128#6289
+
+<img src="https://matrix.org/favicon-32x32.png" width="15px"> Matrix: @alanjian85:matrix.org
+
+### My Stats 🔭🔭
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjian85)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjian85)](https://github.com/anuraghazra/github-readme-stats)
