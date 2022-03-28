@@ -6,7 +6,6 @@ My name is Alan Jian, also known as CyKid128. I'm a student programmer from Taiw
 
 - 📫 Email: alanjian85@outlook.com
 - <a href="https://discord.com" target="_blank"><img src="discord.ico" width="15px"></a> Discord: `CyKid128#6289`
-- <a href="https://matrix.org" target="_blank"><img src="https://matrix.org/favicon-32x32.png" width="15px"></a> Matrix: `@alanjian85:matrix.org`
 
 ### Statistics 🔭🔭
 
