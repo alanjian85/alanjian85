@@ -1,4 +1,4 @@
-### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello World!
 
 My name is Alan Jian, also known as CyKid128. I'm a student programmer from Taiwan who is trying to learn computer graphics, networking and modern C++ now, interested in game engine and game development currently, you may find me on several messaging platforms.
 
