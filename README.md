@@ -1,13 +1,4 @@
-### Hello World!
+## Hello world!
 
-My name is Alan Jian, also known as CyKid128. I'm a student programmer from Taiwan who is trying to learn computer graphics, networking and modern C++ now, interested in game engine and game development currently, you may find me on several messaging platforms.
-
-### Contact 📝
-
-- 📫 Email: alanjian85@outlook.com
-- <a href="https://discord.com" target="_blank"><img src="discord.ico" width="15px"></a> Discord: `CyKid128#6289`
-
-### Statistics 🔭🔭
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjian85)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjian85)](https://github.com/anuraghazra/github-readme-stats)
+### About me
+My name is Alan Jian. I'm a Taiwanese high school student at [Wu-Ling Senior High School](https://en.wikipedia.org/wiki/Wu-Ling_Senior_High_School). I am incredibly passionate about **programming** and **everything tech-related**! I'm particularly interested in **operating system development** and **computer graphics**. Since I was in primary school, I have spent **over ten years** attempting to learn everything there is to know more about computer science. In addition, I'm eager to know practical parts of mathematics like **calculus** and **linear algebra**. You can find my blog [here](https://alanjian85.github.io/).
