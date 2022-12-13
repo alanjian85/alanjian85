@@ -13,9 +13,13 @@ My name is Alan Jian. I'm a Taiwanese high school student at **[Wu-Ling Senior H
 * Speaker of [SITCON X](https://sitcon.org/2022/) (2022/09/21)
 
 ### Showcase
-| [Cephalon](https://github.com/alanjian85/cephalon) | [NES](https://github.com/alanjian85/nes) |
------------------------------------------------------|------------------------------------------|
-|          ![Cephalon GIF](cephalon.gif)             |            ![NES GIF](nes.gif)           |
+|   [Cephalon](https://github.com/alanjian85/cephalon)    | [NES](https://github.com/alanjian85/nes) |
+|---------------------------------------------------------|------------------------------------------|
+|              ![Cephalon GIF](cephalon.gif)              |            ![NES GIF](nes.gif)           |
+
+| [Ray Tracing Now!](https://github.com/alanjian85/rtnow) | [CGL](https://github.com/alanjian85/cgl) |
+|---------------------------------------------------------|------------------------------------------|
+|             ![Ray Tracing Now! GIF](rtnow.png)          |            ![CGL GIF](cgl.gif)           |
 
 ### Contact me
 Email: `alanjian85@outlook.com`
