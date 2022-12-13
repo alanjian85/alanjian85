@@ -6,11 +6,16 @@ My name is Alan Jian. I'm a Taiwanese high school student at **[Wu-Ling Senior H
 ### Interested Fields
 * Computer Graphics, especially Rasterization
 * Operating System Developement
-* Embedded Devices, mostly ARM and AArch64
+* Embedded Devices, mostly on ARM (both AArch32 and AArch64) devices
 * Computer Network
 
 ### Experiences
-* Speaker of SITCON X (2022/09/21)
+* Speaker of [SITCON X](https://sitcon.org/2022/) (2022/09/21)
+
+### Showcase
+| [Cephalon](https://github.com/alanjian85/cephalon) | [NES](https://github.com/alanjian85/nes) |
+-----------------------------------------------------|------------------------------------------|
+|          ![Cephalon GIF](cephalon.gif)             |            ![NES GIF](nes.gif)           |
 
 ### Contact me
 Email: `alanjian85@outlook.com`
