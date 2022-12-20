@@ -26,7 +26,7 @@ My name is **Alan Jian**. I'm a Taiwanese high school student at [Wu-Ling Senior
 |---------------------------------------------------------|
 |                     ![Box](box.png)                     |
 
-### **Contact me**
+### ☎️  **Contact me**
 📬 Email: [alanjian85@outlook.com](mailto:alanjian85@outlook.com)
 
 💻 Blog: [alanjian85.github.io](https://alanjian85.github.io/)
