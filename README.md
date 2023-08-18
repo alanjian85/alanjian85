@@ -1,9 +1,9 @@
 ## 👋 Hello world! 👋
 
-### 👦 **About me**
-My name is **Alan Jian**. I'm a Taiwanese high school student at [Wu-Ling Senior High School](https://en.wikipedia.org/wiki/Wu-Ling_Senior_High_School). I am incredibly passionate about programming and everything tech-related! I'm particularly interested in operating system development and computer graphics. Since I was in primary school, I have spent over eight years attempting to learn everything there is to know more about computer science. In addition, I'm eager to know parts of mathematics that are useful in real life and programming like calculus and linear algebra.
+### 👦 **About Me**
+I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High School](https://en.wikipedia.org/wiki/Wu-Ling_Senior_High_School). I am incredibly passionate about programming and everything tech-related! I'm particularly interested in operating system development and computer graphics. Ever since I was in primary school, I have spent over eight years attempting to learn everything there is to know more about computer science. In addition, I'm eager to know parts of mathematics that are useful in real life and programming like calculus and linear algebra.
 
-### 🕹️ **Interested Fields**
+### 🕹️ **Fields of Interest**
 * **Computer Graphics**, especially *Rasterization*
 * **Operating System Developement**
 * **Embedded Devices**, mostly on *ARM* (both *AArch32* and *AArch64*) devices
@@ -26,7 +26,7 @@ My name is **Alan Jian**. I'm a Taiwanese high school student at [Wu-Ling Senior
 |---------------------------------------------------------|
 |                     ![Box](box.png)                     |
 
-### ☎️  **Contact me**
+### ☎️  **Contact Me**
 📬 Email: [alanjian85@outlook.com](mailto:alanjian85@outlook.com)
 
 💻 Blog: [alanjian85.github.io](https://alanjian85.github.io/)
