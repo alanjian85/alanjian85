@@ -13,7 +13,7 @@ I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High Scho
 ### **Experiences**
 * Speaker @ [SITCON X](https://sitcon.org/2022/) (2022/09/21)
 
-###**Showcase**
+### **Showcase**
 |   [Cephalon](https://github.com/alanjian85/cephalon)    | [NES](https://github.com/alanjian85/nes) |
 |---------------------------------------------------------|------------------------------------------|
 |              ![Cephalon GIF](cephalon.gif)              |            ![NES GIF](nes.gif)           |
