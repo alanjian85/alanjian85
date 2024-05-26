@@ -14,19 +14,17 @@ I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High Scho
 * Speaker @ [SITCON X](https://sitcon.org/2022/) (2022/09/21)
 
 ### **Showcase**
-|   [Cephalon](https://github.com/alanjian85/cephalon)    | [NES](https://github.com/alanjian85/nes) |
-|---------------------------------------------------------|------------------------------------------|
-|              ![Cephalon GIF](cephalon.gif)              |            ![NES GIF](nes.gif)           |
+|      [CargOS](https://github.com/carg-os/carg-os)      | [Trinity](https://github.com/alanjian85/trinity) |
+|--------------------------------------------------------|--------------------------------------------------|
+|     <img src="cargos.gif" width="300" height="300">    | <img src="trinity.gif" width="300" height="300"> |
 
-| [Ray Tracing Now!](https://github.com/alanjian85/rtnow) | [CGL](https://github.com/alanjian85/cgl) |
-|---------------------------------------------------------|------------------------------------------|
-|             ![Ray Tracing Now! GIF](rtnow.png)          |            ![CGL GIF](cgl.gif)           |
+|   [Cephalon](https://github.com/alanjian85/cephalon)    |      [NES](https://github.com/alanjian85/nes)    |
+|---------------------------------------------------------|--------------------------------------------------|
+|    <img src="cephalon.gif" width="300" height="300">    |   <img src="nes.gif" width="300" height="300">   |
 
-|         [Box](https://github.com/alanjian85/box)        |
-|---------------------------------------------------------|
-|                     ![Box](box.png)                     |
+| [Ray Tracing Now!](https://github.com/alanjian85/rtnow) |      [Box](https://github.com/alanjian85/box)    |
+|---------------------------------------------------------|--------------------------------------------------|
+|      <img src="rtnow.png" width="300" height="300">     |   <img src="box.png" width="300" height="300">   |
 
 ### **Contact Me**
 📬 Email: [alanjian85@outlook.com](mailto:alanjian85@outlook.com)
-
-💻 Blog: [alanjian85.github.io](https://alanjian85.github.io/)
