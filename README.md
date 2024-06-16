@@ -1,7 +1,7 @@
-## Hello world! 👋
+## Hello world!
 
-### **About Me**
-I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High School](https://en.wikipedia.org/wiki/Wu-Ling_Senior_High_School). I am incredibly passionate about programming and everything tech-related! I'm particularly interested in operating system development and computer graphics. Ever since I was in primary school, I have spent over eight years attempting to learn everything there is to know more about computer science. In addition, I'm eager to know parts of mathematics that are useful in real life and programming like calculus and linear algebra.
+### **whoami**
+I am **Alan Jian**, a Taiwanese high schooler at [Wu-Ling Senior High School](https://en.wikipedia.org/wiki/Wu-Ling_Senior_High_School). 
 
 ### **Fields of Interest**
 * **Operating System Developement**
@@ -9,10 +9,9 @@ I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High Scho
 * **RISC CPU Architectures** like RISC-V and ARM
 * **Emulator Development**
 * **Linear Algebra**
-* **Calculus**
 
 ### **Activities**
-* **Speaker of SCINT club course at [CKHS](https://www.ck.tp.edu.tw/nss/p/index)** 2024/02/24
+* **Lecturer of [SCINT](https://scint.org/) club courses at [CKHS](https://www.ck.tp.edu.tw/nss/p/index)** 2024/02/24
 * **28th President of WLCSC (Wu-Ling Computer Science Club)** 2023/06/16 ~ 2024/06/14
 * **Speaker of [SITCON X](https://sitcon.org/2022/)** 2022/09/21
 
@@ -30,4 +29,6 @@ I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High Scho
 |   <img src="opticus.png" width="300" height="300">     | <img src="reddere.png" width="300" height="300">  |
 
 ### **Contact Me**
-📬 Email: [alanjian85@outlook.com](mailto:alanjian85@outlook.com)
+Email: [alanjian85@outlook.com](mailto:alanjian85@outlook.com)\
+Facebook: [Alan Jian](https://www.facebook.com/profile.php?id=100062543614007)\
+Discord: [alanjian85](https://discord.com/invite/rC5p4ZkC)
