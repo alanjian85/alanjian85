@@ -11,8 +11,10 @@ I am **Alan Jian**, a Taiwanese high school student at [Wu-Ling Senior High Scho
 * **Linear Algebra**
 * **Calculus**
 
-### **Experiences**
-* Speaker @ [SITCON X](https://sitcon.org/2022/) (2022/09/21)
+### **Activities**
+* **Speaker of SCINT club course at [CKHS](https://www.ck.tp.edu.tw/nss/p/index)** 2024/02/24
+* **28th President of WLCSC (Wu-Ling Computer Science Club)** 2023/06/16 ~ 2024/06/14
+* **Speaker of [SITCON X](https://sitcon.org/2022/)** 2022/09/21
 
 ### **Showcase**
 |      [CargOS](https://github.com/carg-os/carg-os)      | [Trinitas](https://github.com/alanjian85/trinity) |
